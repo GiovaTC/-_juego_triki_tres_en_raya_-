@@ -1,7 +1,9 @@
 # -_juego_triki_tres_en_raya_- :.
 Juego Triki (Tres en Raya):
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4793024c-4c9e-4926-b25f-7d69ddce7be4" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4793024c-4c9e-4926-b25f-7d69ddce7be4" />    
+
+<img width="1283" height="1079" alt="image" src="https://github.com/user-attachments/assets/e40ffef0-a1d8-4025-a84f-b1a86b7de895" />        
 
 ```
 C# + Windows Forms + Interfaz Grafica:
